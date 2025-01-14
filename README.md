@@ -45,3 +45,7 @@ for right in range(len(sequence))
     更新或者记录可行解
 return 最优解
 ```
+
+#### 题目
+1052
+2841
